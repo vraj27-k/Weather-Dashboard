@@ -28,3 +28,4 @@ Coming soon...
 
 ---
 ## 📸 Screenshots
+![App Screenshot](homepage.png)
