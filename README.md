@@ -27,10 +27,4 @@ Coming soon...
 | Tailwind CSS  | Express.js (opt)   |                      |
 
 ---
-
-## 🚀 Getting Started
-
-### 1. Clone the Repo
-```bash
-git clone https://github.com/vraj27-k/Weather-Dashboard.git
-cd Weather-Dashboard
+## 📸 Screenshots
